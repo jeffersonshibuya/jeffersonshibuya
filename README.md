@@ -16,11 +16,8 @@
 
 ## Find me
 
-[![Gmail Badge](https://img.shields.io/badge/-jeffersonshibuya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffersonshibuya@gmail.com)](mailto:jeffersonshibuya@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-RebecaBivar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebecabivar)](https://www.linkedin.com/in/jeffersonshibuya)
+[![Gmail Badge](https://img.shields.io/badge/-jeffersonshibuya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffersonshibuya@gmail.com)](mailto:jeffersonshibuya@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-JeffersonShibuya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffersonshibuya)](https://www.linkedin.com/in/jeffersonshibuya)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## Stats
 
-  <img align="left" alt="jeffersonshibuya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jeffersonshibuya&show_icons=true&hide_border=true" />
-
-</details>
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonshibuya&exclude_repo=portfolio-tcb,bivar.github.io&show_icons=true&hide=html,teX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeffersonshibuya&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
