@@ -41,6 +41,6 @@
 ### Stats
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonshibuya&exclude_repo=portfolio-tcb,bivar.github.io&show_icons=true&hide=html,teX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-> <br> > [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeffersonshibuya&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+> <br>  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeffersonshibuya&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/jefferson-shibuya-9a337267/
